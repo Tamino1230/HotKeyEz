@@ -1,2 +1,2 @@
 # HotKeyEz
-An easy to use HotKey Maker
+An easy to use HotKey Manager
