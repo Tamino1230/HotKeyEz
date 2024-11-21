@@ -57,7 +57,7 @@ Special Characters:
 !, @, #, $, %, ^, &, *, (, ), _, +, {, }, |, :, ", <, >, ?, ~, `\``
 
 System Keys:
-windows
+windows,
 menu
 
 ## Installation
