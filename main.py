@@ -66,7 +66,8 @@ root.geometry("800x400")
 root.protocol("WM_DELETE_WINDOW", on_closing)  # event handler on closing
 root.resizable(False, False)  # Größenänderung deaktivieren
 
-#root.configure(bg='lightblue')
+# background color
+root.configure(bg='lightblue')
 
 # icon of the app
 root.iconbitmap('babToma.ico') 
