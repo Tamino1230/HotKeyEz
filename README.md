@@ -33,18 +33,18 @@ home, end
 page up, page down
 Control Keys:
 ctrl, shift, alt
-esc
-tab
-caps lock
-backspace
+esc,
+tab,
+caps lock,
+backspace,
 enter
 
 Miscellaneous Keys:
-space
-insert
-delete
-print screen
-pause
+space,
+insert,
+delete,
+print screen,
+pause,
 break
 
 Numeric Keypad:
