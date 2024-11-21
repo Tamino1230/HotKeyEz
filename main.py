@@ -66,6 +66,9 @@ root.geometry("800x400")
 root.protocol("WM_DELETE_WINDOW", on_closing)  # event handler on closing
 root.resizable(False, False)  # Größenänderung deaktivieren
 
+label = tk.Label(root, text="You sometimes need to restart, to update.", font=("Helvetica", 8))
+label.place(relx=0.5, rely=0.9, anchor=tk.CENTER)
+
 # background color
 root.configure(bg='lightblue')
 
