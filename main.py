@@ -64,7 +64,7 @@ root = tk.Tk()
 root.title("HotKeyEZ - @tamino1230")
 root.geometry("800x400")
 root.protocol("WM_DELETE_WINDOW", on_closing)  # event handler on closing
-root.resizable(False, False)  # Größenänderung deaktivieren
+root.resizable(False, False)  # no rezising
 
 label = tk.Label(root, text="You sometimes need to restart, to update.", font=("Helvetica", 8))
 label.place(relx=0.5, rely=0.9, anchor=tk.CENTER)
