@@ -66,6 +66,8 @@ menu
 - if you edit a hotkey and give it the same variable its gonna write the old one too. Restart the App
 For all these Bugs you need to restart the program
 
+- Supress Variable doesnt Work.
+
 ## Installation
 
 Steps for the Installation
