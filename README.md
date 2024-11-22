@@ -87,4 +87,4 @@ This Project is under the MIT-License. See in the LICENSE-File for more Informat
 + Email - /
 
 ## Project
-Project-Repository: https://github.com/Tamino1230/https://github.com/Tamino1230/HotKeyEz
+Project-Repository: https://github.com/Tamino1230/HotKeyEz
