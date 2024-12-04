@@ -18,4 +18,3 @@ set SCRIPT_DIR=%~dp0
 echo start...
 cd /d %SCRIPT_DIR%
 %PYTHON_PATH% main.py
-pause
